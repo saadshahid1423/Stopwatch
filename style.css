@@ -111,23 +111,25 @@
 }
 @media screen and (max-width: 359px){
     .num,.numone{
-        width: 25px;
-        height: 30px;
+        width: 35px;
+        height: 25px;
         text-align: center;
-        margin: 18px;
+        margin: 7px;
         text-align: center;
-        font-size: 25px;
+        font-size: 20px;
+        text-align: center;
     }
 }
 @media screen and (max-width: 359px){
     .but{
         width: 37px;
         font-size: xx-small;
-        margin-left: 15px;
+        margin-left: 3px;
+        text-align: center;
     }
 }
 @media screen and (max-width: 342px){
     .text{
-        margin-left: 6px;
+        margin-left: 2px;
     }
 }
