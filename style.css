@@ -1,0 +1,48 @@
+.body{
+    background-image: url("images/stopwatch.jpg");
+    background-size: cover;
+}
+.text{
+    display: inline;
+    margin: 10px 20px;
+    text-decoration: underline;
+}
+.num{
+    display: inline-block;
+    margin: 42px ;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+.numone{
+    display: inline-block;
+    margin: 50px ;
+    background-color: white;
+    width: 50px;
+    text-align: center;
+    margin-top: 0px;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+.col{
+    display: inline-block;
+}
+.but{
+    height: 30px;
+    width: 100px;
+    margin: 25px;
+    margin-top: -50px;
+    background-color: black;
+    box-shadow: 2px 2px 2px 2px grey;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.lap{
+    font-size: x-large;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.name{
+    border-color: black;
+}
