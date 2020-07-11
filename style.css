@@ -46,3 +46,61 @@
 .name{
     border-color: black;
 }
+@media screen and (max-width: 670px){
+    .text{
+        font-size: large;
+    }
+}
+@media screen and (max-width: 670px){
+    .but{
+        width: 55px;
+    }
+}
+@media screen and (max-width: 670px){
+    .num,.numone{
+        width: 25px;
+        height: 30px;
+        text-align: center;
+        margin: 33px;
+    }
+}
+@media screen and (max-width: 455px){
+    .text{
+        font-size: small;
+    }
+}
+@media screen and (max-width: 455px){
+    .but{
+        width: 37px;
+        font-size: xx-small;
+        margin-left: 22px;
+    }
+}
+@media screen and (max-width: 455px){
+    .num,.numone{
+        width: 25px;
+        height: 30px;
+        text-align: center;
+        margin: 23px;
+    }
+}
+@media screen and (max-width: 384px){
+    .text{
+        margin-left: 14px;
+    }
+}
+@media screen and (max-width: 384px){
+    .but{
+        width: 37px;
+        font-size: xx-small;
+        margin-left: 20px;
+    }
+}
+@media screen and (max-width: 384px){
+    .num,.numone{
+        width: 25px;
+        height: 30px;
+        text-align: center;
+        margin: 20px;
+    }
+}
