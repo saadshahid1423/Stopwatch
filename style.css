@@ -106,7 +106,7 @@
 }
 @media screen and (max-width: 359px){
     .text{
-        margin-left: 5px;
+        margin-left: 10px;
     }
 }
 @media screen and (max-width: 359px){
@@ -114,8 +114,15 @@
         width: 25px;
         height: 30px;
         text-align: center;
-        margin: 20px;
+        margin: 18px;
         text-align: center;
-        font-size: 10px;
+        font-size: 25px;
+    }
+}
+@media screen and (max-width: 359px){
+    .but{
+        width: 37px;
+        font-size: xx-small;
+        margin-left: 15px;
     }
 }
