@@ -126,3 +126,8 @@
         margin-left: 15px;
     }
 }
+@media screen and (max-width: 342px){
+    .text{
+        margin-left: 6px;
+    }
+}
